@@ -28,9 +28,9 @@
 							<goal>compile</goal>
 							<goal>testCompile</goal>
 						</goals>
-						<configuration>
-							<mainSourceDir>${project.build.sourceDirectory}/../java</mainSourceDir>
-						</configuration>
+						<!--<configuration>-->
+							<!--<mainSourceDir>${project.build.sourceDirectory}/../java</mainSourceDir>-->
+						<!--</configuration>-->
 					</execution>
 				</executions>
 			</plugin>
